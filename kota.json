@@ -1,0 +1,2060 @@
+{
+	"_id" : ObjectId("5d32711d64f2572520464cdd"),
+	"nama" : "KABUPATEN SIMEULUE"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464cde"),
+	"nama" : "KABUPATEN ACEH SINGKIL"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464cdf"),
+	"nama" : "KABUPATEN ACEH SELATAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ce0"),
+	"nama" : "KABUPATEN ACEH TENGGARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ce1"),
+	"nama" : "KABUPATEN ACEH TIMUR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ce2"),
+	"nama" : "KABUPATEN ACEH TENGAH"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ce3"),
+	"nama" : "KABUPATEN ACEH BARAT"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ce4"),
+	"nama" : "KABUPATEN ACEH BESAR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ce5"),
+	"nama" : "KABUPATEN PIDIE"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ce6"),
+	"nama" : "KABUPATEN BIREUEN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ce7"),
+	"nama" : "KABUPATEN ACEH UTARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ce8"),
+	"nama" : "KABUPATEN ACEH BARAT DAYA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ce9"),
+	"nama" : "KABUPATEN GAYO LUES"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464cea"),
+	"nama" : "KABUPATEN ACEH TAMIANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ceb"),
+	"nama" : "KABUPATEN NAGAN RAYA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464cec"),
+	"nama" : "KABUPATEN ACEH JAYA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ced"),
+	"nama" : "KABUPATEN BENER MERIAH"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464cee"),
+	"nama" : "KABUPATEN PIDIE JAYA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464cef"),
+	"nama" : "KOTA BANDA ACEH"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464cf0"),
+	"nama" : "KOTA SABANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464cf1"),
+	"nama" : "KOTA LANGSA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464cf2"),
+	"nama" : "KOTA LHOKSEUMAWE"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464cf3"),
+	"nama" : "KOTA SUBULUSSALAM"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464cf4"),
+	"nama" : "KABUPATEN NIAS"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464cf5"),
+	"nama" : "KABUPATEN MANDAILING NATAL"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464cf6"),
+	"nama" : "KABUPATEN TAPANULI SELATAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464cf7"),
+	"nama" : "KABUPATEN TAPANULI TENGAH"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464cf8"),
+	"nama" : "KABUPATEN TAPANULI UTARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464cf9"),
+	"nama" : "KABUPATEN TOBA SAMOSIR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464cfa"),
+	"nama" : "KABUPATEN LABUHAN BATU"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464cfb"),
+	"nama" : "KABUPATEN ASAHAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464cfc"),
+	"nama" : "KABUPATEN SIMALUNGUN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464cfd"),
+	"nama" : "KABUPATEN DAIRI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464cfe"),
+	"nama" : "KABUPATEN KARO"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464cff"),
+	"nama" : "KABUPATEN DELI SERDANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d00"),
+	"nama" : "KABUPATEN LANGKAT"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d01"),
+	"nama" : "KABUPATEN NIAS SELATAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d02"),
+	"nama" : "KABUPATEN HUMBANG HASUNDUTAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d03"),
+	"nama" : "KABUPATEN PAKPAK BHARAT"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d04"),
+	"nama" : "KABUPATEN SAMOSIR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d05"),
+	"nama" : "KABUPATEN SERDANG BEDAGAI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d06"),
+	"nama" : "KABUPATEN BATU BARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d07"),
+	"nama" : "KABUPATEN PADANG LAWAS UTARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d08"),
+	"nama" : "KABUPATEN PADANG LAWAS"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d09"),
+	"nama" : "KABUPATEN LABUHAN BATU SELATAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d0a"),
+	"nama" : "KABUPATEN LABUHAN BATU UTARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d0b"),
+	"nama" : "KABUPATEN NIAS UTARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d0c"),
+	"nama" : "KABUPATEN NIAS BARAT"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d0d"),
+	"nama" : "KOTA SIBOLGA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d0e"),
+	"nama" : "KOTA TANJUNG BALAI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d0f"),
+	"nama" : "KOTA PEMATANG SIANTAR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d10"),
+	"nama" : "KOTA TEBING TINGGI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d11"),
+	"nama" : "KOTA MEDAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d12"),
+	"nama" : "KOTA BINJAI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d13"),
+	"nama" : "KOTA PADANGSIDIMPUAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d14"),
+	"nama" : "KOTA GUNUNGSITOLI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d15"),
+	"nama" : "KABUPATEN KEPULAUAN MENTAWAI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d16"),
+	"nama" : "KABUPATEN PESISIR SELATAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d17"),
+	"nama" : "KABUPATEN SOLOK"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d18"),
+	"nama" : "KABUPATEN SIJUNJUNG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d19"),
+	"nama" : "KABUPATEN TANAH DATAR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d1a"),
+	"nama" : "KABUPATEN PADANG PARIAMAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d1b"),
+	"nama" : "KABUPATEN AGAM"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d1c"),
+	"nama" : "KABUPATEN LIMA PULUH KOTA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d1d"),
+	"nama" : "KABUPATEN PASAMAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d1e"),
+	"nama" : "KABUPATEN SOLOK SELATAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d1f"),
+	"nama" : "KABUPATEN DHARMASRAYA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d20"),
+	"nama" : "KABUPATEN PASAMAN BARAT"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d21"),
+	"nama" : "KOTA PADANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d22"),
+	"nama" : "KOTA SOLOK"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d23"),
+	"nama" : "KOTA SAWAH LUNTO"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d24"),
+	"nama" : "KOTA PADANG PANJANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d25"),
+	"nama" : "KOTA BUKITTINGGI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d26"),
+	"nama" : "KOTA PAYAKUMBUH"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d27"),
+	"nama" : "KOTA PARIAMAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d28"),
+	"nama" : "KABUPATEN KUANTAN SINGINGI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d29"),
+	"nama" : "KABUPATEN INDRAGIRI HULU"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d2a"),
+	"nama" : "KABUPATEN INDRAGIRI HILIR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d2b"),
+	"nama" : "KABUPATEN PELALAWAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d2c"),
+	"nama" : "KABUPATEN S I A K"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d2d"),
+	"nama" : "KABUPATEN KAMPAR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d2e"),
+	"nama" : "KABUPATEN ROKAN HULU"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d2f"),
+	"nama" : "KABUPATEN BENGKALIS"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d30"),
+	"nama" : "KABUPATEN ROKAN HILIR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d31"),
+	"nama" : "KABUPATEN KEPULAUAN MERANTI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d32"),
+	"nama" : "KOTA PEKANBARU"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d33"),
+	"nama" : "KOTA D U M A I"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d34"),
+	"nama" : "KABUPATEN KERINCI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d35"),
+	"nama" : "KABUPATEN MERANGIN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d36"),
+	"nama" : "KABUPATEN SAROLANGUN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d37"),
+	"nama" : "KABUPATEN BATANG HARI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d38"),
+	"nama" : "KABUPATEN MUARO JAMBI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d39"),
+	"nama" : "KABUPATEN TANJUNG JABUNG TIMUR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d3a"),
+	"nama" : "KABUPATEN TANJUNG JABUNG BARAT"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d3b"),
+	"nama" : "KABUPATEN TEBO"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d3c"),
+	"nama" : "KABUPATEN BUNGO"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d3d"),
+	"nama" : "KOTA JAMBI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d3e"),
+	"nama" : "KOTA SUNGAI PENUH"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d3f"),
+	"nama" : "KABUPATEN OGAN KOMERING ULU"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d40"),
+	"nama" : "KABUPATEN OGAN KOMERING ILIR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d41"),
+	"nama" : "KABUPATEN MUARA ENIM"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d42"),
+	"nama" : "KABUPATEN LAHAT"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d43"),
+	"nama" : "KABUPATEN MUSI RAWAS"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d44"),
+	"nama" : "KABUPATEN MUSI BANYUASIN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d45"),
+	"nama" : "KABUPATEN BANYU ASIN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d46"),
+	"nama" : "KABUPATEN OGAN KOMERING ULU SELATAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d47"),
+	"nama" : "KABUPATEN OGAN KOMERING ULU TIMUR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d48"),
+	"nama" : "KABUPATEN OGAN ILIR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d49"),
+	"nama" : "KABUPATEN EMPAT LAWANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d4a"),
+	"nama" : "KABUPATEN PENUKAL ABAB LEMATANG ILIR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d4b"),
+	"nama" : "KABUPATEN MUSI RAWAS UTARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d4c"),
+	"nama" : "KOTA PALEMBANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d4d"),
+	"nama" : "KOTA PRABUMULIH"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d4e"),
+	"nama" : "KOTA PAGAR ALAM"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d4f"),
+	"nama" : "KOTA LUBUKLINGGAU"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d50"),
+	"nama" : "KABUPATEN BENGKULU SELATAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d51"),
+	"nama" : "KABUPATEN REJANG LEBONG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d52"),
+	"nama" : "KABUPATEN BENGKULU UTARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d53"),
+	"nama" : "KABUPATEN KAUR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d54"),
+	"nama" : "KABUPATEN SELUMA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d55"),
+	"nama" : "KABUPATEN MUKOMUKO"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d56"),
+	"nama" : "KABUPATEN LEBONG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d57"),
+	"nama" : "KABUPATEN KEPAHIANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d58"),
+	"nama" : "KABUPATEN BENGKULU TENGAH"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d59"),
+	"nama" : "KOTA BENGKULU"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d5a"),
+	"nama" : "KABUPATEN LAMPUNG BARAT"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d5b"),
+	"nama" : "KABUPATEN TANGGAMUS"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d5c"),
+	"nama" : "KABUPATEN LAMPUNG SELATAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d5d"),
+	"nama" : "KABUPATEN LAMPUNG TIMUR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d5e"),
+	"nama" : "KABUPATEN LAMPUNG TENGAH"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d5f"),
+	"nama" : "KABUPATEN LAMPUNG UTARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d60"),
+	"nama" : "KABUPATEN WAY KANAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d61"),
+	"nama" : "KABUPATEN TULANGBAWANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d62"),
+	"nama" : "KABUPATEN PESAWARAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d63"),
+	"nama" : "KABUPATEN PRINGSEWU"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d64"),
+	"nama" : "KABUPATEN MESUJI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d65"),
+	"nama" : "KABUPATEN TULANG BAWANG BARAT"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d66"),
+	"nama" : "KABUPATEN PESISIR BARAT"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d67"),
+	"nama" : "KOTA BANDAR LAMPUNG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d68"),
+	"nama" : "KOTA METRO"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d69"),
+	"nama" : "KABUPATEN BANGKA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d6a"),
+	"nama" : "KABUPATEN BELITUNG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d6b"),
+	"nama" : "KABUPATEN BANGKA BARAT"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d6c"),
+	"nama" : "KABUPATEN BANGKA TENGAH"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d6d"),
+	"nama" : "KABUPATEN BANGKA SELATAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d6e"),
+	"nama" : "KABUPATEN BELITUNG TIMUR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d6f"),
+	"nama" : "KOTA PANGKAL PINANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d70"),
+	"nama" : "KABUPATEN KARIMUN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d71"),
+	"nama" : "KABUPATEN BINTAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d72"),
+	"nama" : "KABUPATEN NATUNA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d73"),
+	"nama" : "KABUPATEN LINGGA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d74"),
+	"nama" : "KABUPATEN KEPULAUAN ANAMBAS"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d75"),
+	"nama" : "KOTA B A T A M"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d76"),
+	"nama" : "KOTA TANJUNG PINANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d77"),
+	"nama" : "KABUPATEN KEPULAUAN SERIBU"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d78"),
+	"nama" : "KOTA JAKARTA SELATAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d79"),
+	"nama" : "KOTA JAKARTA TIMUR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d7a"),
+	"nama" : "KOTA JAKARTA PUSAT"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d7b"),
+	"nama" : "KOTA JAKARTA BARAT"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d7c"),
+	"nama" : "KOTA JAKARTA UTARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d7d"),
+	"nama" : "KABUPATEN BOGOR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d7e"),
+	"nama" : "KABUPATEN SUKABUMI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d7f"),
+	"nama" : "KABUPATEN CIANJUR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d80"),
+	"nama" : "KABUPATEN BANDUNG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d81"),
+	"nama" : "KABUPATEN GARUT"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d82"),
+	"nama" : "KABUPATEN TASIKMALAYA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d83"),
+	"nama" : "KABUPATEN CIAMIS"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d84"),
+	"nama" : "KABUPATEN KUNINGAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d85"),
+	"nama" : "KABUPATEN CIREBON"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d86"),
+	"nama" : "KABUPATEN MAJALENGKA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d87"),
+	"nama" : "KABUPATEN SUMEDANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d88"),
+	"nama" : "KABUPATEN INDRAMAYU"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d89"),
+	"nama" : "KABUPATEN SUBANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d8a"),
+	"nama" : "KABUPATEN PURWAKARTA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d8b"),
+	"nama" : "KABUPATEN KARAWANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d8c"),
+	"nama" : "KABUPATEN BEKASI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d8d"),
+	"nama" : "KABUPATEN BANDUNG BARAT"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d8e"),
+	"nama" : "KABUPATEN PANGANDARAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d8f"),
+	"nama" : "KOTA BOGOR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d90"),
+	"nama" : "KOTA SUKABUMI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d91"),
+	"nama" : "KOTA BANDUNG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d92"),
+	"nama" : "KOTA CIREBON"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d93"),
+	"nama" : "KOTA BEKASI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d94"),
+	"nama" : "KOTA DEPOK"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d95"),
+	"nama" : "KOTA CIMAHI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d96"),
+	"nama" : "KOTA TASIKMALAYA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d97"),
+	"nama" : "KOTA BANJAR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d98"),
+	"nama" : "KABUPATEN CILACAP"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d99"),
+	"nama" : "KABUPATEN BANYUMAS"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d9a"),
+	"nama" : "KABUPATEN PURBALINGGA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d9b"),
+	"nama" : "KABUPATEN BANJARNEGARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d9c"),
+	"nama" : "KABUPATEN KEBUMEN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d9d"),
+	"nama" : "KABUPATEN PURWOREJO"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d9e"),
+	"nama" : "KABUPATEN WONOSOBO"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464d9f"),
+	"nama" : "KABUPATEN MAGELANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464da0"),
+	"nama" : "KABUPATEN BOYOLALI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464da1"),
+	"nama" : "KABUPATEN KLATEN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464da2"),
+	"nama" : "KABUPATEN SUKOHARJO"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464da3"),
+	"nama" : "KABUPATEN WONOGIRI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464da4"),
+	"nama" : "KABUPATEN KARANGANYAR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464da5"),
+	"nama" : "KABUPATEN SRAGEN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464da6"),
+	"nama" : "KABUPATEN GROBOGAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464da7"),
+	"nama" : "KABUPATEN BLORA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464da8"),
+	"nama" : "KABUPATEN REMBANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464da9"),
+	"nama" : "KABUPATEN PATI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464daa"),
+	"nama" : "KABUPATEN KUDUS"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dab"),
+	"nama" : "KABUPATEN JEPARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dac"),
+	"nama" : "KABUPATEN DEMAK"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dad"),
+	"nama" : "KABUPATEN SEMARANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dae"),
+	"nama" : "KABUPATEN TEMANGGUNG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464daf"),
+	"nama" : "KABUPATEN KENDAL"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464db0"),
+	"nama" : "KABUPATEN BATANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464db1"),
+	"nama" : "KABUPATEN PEKALONGAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464db2"),
+	"nama" : "KABUPATEN PEMALANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464db3"),
+	"nama" : "KABUPATEN TEGAL"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464db4"),
+	"nama" : "KABUPATEN BREBES"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464db5"),
+	"nama" : "KOTA MAGELANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464db6"),
+	"nama" : "KOTA SURAKARTA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464db7"),
+	"nama" : "KOTA SALATIGA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464db8"),
+	"nama" : "KOTA SEMARANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464db9"),
+	"nama" : "KOTA PEKALONGAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dba"),
+	"nama" : "KOTA TEGAL"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dbb"),
+	"nama" : "KABUPATEN KULON PROGO"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dbc"),
+	"nama" : "KABUPATEN BANTUL"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dbd"),
+	"nama" : "KABUPATEN GUNUNG KIDUL"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dbe"),
+	"nama" : "KABUPATEN SLEMAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dbf"),
+	"nama" : "KOTA YOGYAKARTA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dc0"),
+	"nama" : "KABUPATEN PACITAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dc1"),
+	"nama" : "KABUPATEN PONOROGO"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dc2"),
+	"nama" : "KABUPATEN TRENGGALEK"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dc3"),
+	"nama" : "KABUPATEN TULUNGAGUNG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dc4"),
+	"nama" : "KABUPATEN BLITAR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dc5"),
+	"nama" : "KABUPATEN KEDIRI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dc6"),
+	"nama" : "KABUPATEN MALANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dc7"),
+	"nama" : "KABUPATEN LUMAJANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dc8"),
+	"nama" : "KABUPATEN JEMBER"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dc9"),
+	"nama" : "KABUPATEN BANYUWANGI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dca"),
+	"nama" : "KABUPATEN BONDOWOSO"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dcb"),
+	"nama" : "KABUPATEN SITUBONDO"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dcc"),
+	"nama" : "KABUPATEN PROBOLINGGO"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dcd"),
+	"nama" : "KABUPATEN PASURUAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dce"),
+	"nama" : "KABUPATEN SIDOARJO"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dcf"),
+	"nama" : "KABUPATEN MOJOKERTO"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dd0"),
+	"nama" : "KABUPATEN JOMBANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dd1"),
+	"nama" : "KABUPATEN NGANJUK"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dd2"),
+	"nama" : "KABUPATEN MADIUN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dd3"),
+	"nama" : "KABUPATEN MAGETAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dd4"),
+	"nama" : "KABUPATEN NGAWI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dd5"),
+	"nama" : "KABUPATEN BOJONEGORO"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dd6"),
+	"nama" : "KABUPATEN TUBAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dd7"),
+	"nama" : "KABUPATEN LAMONGAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dd8"),
+	"nama" : "KABUPATEN GRESIK"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dd9"),
+	"nama" : "KABUPATEN BANGKALAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dda"),
+	"nama" : "KABUPATEN SAMPANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ddb"),
+	"nama" : "KABUPATEN PAMEKASAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ddc"),
+	"nama" : "KABUPATEN SUMENEP"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ddd"),
+	"nama" : "KOTA KEDIRI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dde"),
+	"nama" : "KOTA BLITAR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ddf"),
+	"nama" : "KOTA MALANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464de0"),
+	"nama" : "KOTA PROBOLINGGO"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464de1"),
+	"nama" : "KOTA PASURUAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464de2"),
+	"nama" : "KOTA MOJOKERTO"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464de3"),
+	"nama" : "KOTA MADIUN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464de4"),
+	"nama" : "KOTA SURABAYA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464de5"),
+	"nama" : "KOTA BATU"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464de6"),
+	"nama" : "KABUPATEN PANDEGLANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464de7"),
+	"nama" : "KABUPATEN LEBAK"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464de8"),
+	"nama" : "KABUPATEN TANGERANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464de9"),
+	"nama" : "KABUPATEN SERANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dea"),
+	"nama" : "KOTA TANGERANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464deb"),
+	"nama" : "KOTA CILEGON"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dec"),
+	"nama" : "KOTA SERANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ded"),
+	"nama" : "KOTA TANGERANG SELATAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dee"),
+	"nama" : "KABUPATEN JEMBRANA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464def"),
+	"nama" : "KABUPATEN TABANAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464df0"),
+	"nama" : "KABUPATEN BADUNG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464df1"),
+	"nama" : "KABUPATEN GIANYAR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464df2"),
+	"nama" : "KABUPATEN KLUNGKUNG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464df3"),
+	"nama" : "KABUPATEN BANGLI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464df4"),
+	"nama" : "KABUPATEN KARANG ASEM"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464df5"),
+	"nama" : "KABUPATEN BULELENG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464df6"),
+	"nama" : "KOTA DENPASAR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464df7"),
+	"nama" : "KABUPATEN LOMBOK BARAT"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464df8"),
+	"nama" : "KABUPATEN LOMBOK TENGAH"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464df9"),
+	"nama" : "KABUPATEN LOMBOK TIMUR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dfa"),
+	"nama" : "KABUPATEN SUMBAWA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dfb"),
+	"nama" : "KABUPATEN DOMPU"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dfc"),
+	"nama" : "KABUPATEN BIMA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dfd"),
+	"nama" : "KABUPATEN SUMBAWA BARAT"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dfe"),
+	"nama" : "KABUPATEN LOMBOK UTARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464dff"),
+	"nama" : "KOTA MATARAM"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e00"),
+	"nama" : "KOTA BIMA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e01"),
+	"nama" : "KABUPATEN SUMBA BARAT"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e02"),
+	"nama" : "KABUPATEN SUMBA TIMUR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e03"),
+	"nama" : "KABUPATEN KUPANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e04"),
+	"nama" : "KABUPATEN TIMOR TENGAH SELATAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e05"),
+	"nama" : "KABUPATEN TIMOR TENGAH UTARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e06"),
+	"nama" : "KABUPATEN BELU"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e07"),
+	"nama" : "KABUPATEN ALOR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e08"),
+	"nama" : "KABUPATEN LEMBATA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e09"),
+	"nama" : "KABUPATEN FLORES TIMUR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e0a"),
+	"nama" : "KABUPATEN SIKKA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e0b"),
+	"nama" : "KABUPATEN ENDE"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e0c"),
+	"nama" : "KABUPATEN NGADA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e0d"),
+	"nama" : "KABUPATEN MANGGARAI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e0e"),
+	"nama" : "KABUPATEN ROTE NDAO"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e0f"),
+	"nama" : "KABUPATEN MANGGARAI BARAT"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e10"),
+	"nama" : "KABUPATEN SUMBA TENGAH"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e11"),
+	"nama" : "KABUPATEN SUMBA BARAT DAYA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e12"),
+	"nama" : "KABUPATEN NAGEKEO"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e13"),
+	"nama" : "KABUPATEN MANGGARAI TIMUR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e14"),
+	"nama" : "KABUPATEN SABU RAIJUA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e15"),
+	"nama" : "KABUPATEN MALAKA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e16"),
+	"nama" : "KOTA KUPANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e17"),
+	"nama" : "KABUPATEN SAMBAS"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e18"),
+	"nama" : "KABUPATEN BENGKAYANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e19"),
+	"nama" : "KABUPATEN LANDAK"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e1a"),
+	"nama" : "KABUPATEN MEMPAWAH"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e1b"),
+	"nama" : "KABUPATEN SANGGAU"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e1c"),
+	"nama" : "KABUPATEN KETAPANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e1d"),
+	"nama" : "KABUPATEN SINTANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e1e"),
+	"nama" : "KABUPATEN KAPUAS HULU"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e1f"),
+	"nama" : "KABUPATEN SEKADAU"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e20"),
+	"nama" : "KABUPATEN MELAWI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e21"),
+	"nama" : "KABUPATEN KAYONG UTARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e22"),
+	"nama" : "KABUPATEN KUBU RAYA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e23"),
+	"nama" : "KOTA PONTIANAK"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e24"),
+	"nama" : "KOTA SINGKAWANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e25"),
+	"nama" : "KABUPATEN KOTAWARINGIN BARAT"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e26"),
+	"nama" : "KABUPATEN KOTAWARINGIN TIMUR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e27"),
+	"nama" : "KABUPATEN KAPUAS"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e28"),
+	"nama" : "KABUPATEN BARITO SELATAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e29"),
+	"nama" : "KABUPATEN BARITO UTARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e2a"),
+	"nama" : "KABUPATEN SUKAMARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e2b"),
+	"nama" : "KABUPATEN LAMANDAU"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e2c"),
+	"nama" : "KABUPATEN SERUYAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e2d"),
+	"nama" : "KABUPATEN KATINGAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e2e"),
+	"nama" : "KABUPATEN PULANG PISAU"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e2f"),
+	"nama" : "KABUPATEN GUNUNG MAS"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e30"),
+	"nama" : "KABUPATEN BARITO TIMUR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e31"),
+	"nama" : "KABUPATEN MURUNG RAYA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e32"),
+	"nama" : "KOTA PALANGKA RAYA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e33"),
+	"nama" : "KABUPATEN TANAH LAUT"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e34"),
+	"nama" : "KABUPATEN KOTA BARU"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e35"),
+	"nama" : "KABUPATEN BANJAR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e36"),
+	"nama" : "KABUPATEN BARITO KUALA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e37"),
+	"nama" : "KABUPATEN TAPIN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e38"),
+	"nama" : "KABUPATEN HULU SUNGAI SELATAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e39"),
+	"nama" : "KABUPATEN HULU SUNGAI TENGAH"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e3a"),
+	"nama" : "KABUPATEN HULU SUNGAI UTARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e3b"),
+	"nama" : "KABUPATEN TABALONG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e3c"),
+	"nama" : "KABUPATEN TANAH BUMBU"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e3d"),
+	"nama" : "KABUPATEN BALANGAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e3e"),
+	"nama" : "KOTA BANJARMASIN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e3f"),
+	"nama" : "KOTA BANJAR BARU"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e40"),
+	"nama" : "KABUPATEN PASER"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e41"),
+	"nama" : "KABUPATEN KUTAI BARAT"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e42"),
+	"nama" : "KABUPATEN KUTAI KARTANEGARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e43"),
+	"nama" : "KABUPATEN KUTAI TIMUR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e44"),
+	"nama" : "KABUPATEN BERAU"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e45"),
+	"nama" : "KABUPATEN PENAJAM PASER UTARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e46"),
+	"nama" : "KABUPATEN MAHAKAM HULU"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e47"),
+	"nama" : "KOTA BALIKPAPAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e48"),
+	"nama" : "KOTA SAMARINDA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e49"),
+	"nama" : "KOTA BONTANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e4a"),
+	"nama" : "KABUPATEN MALINAU"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e4b"),
+	"nama" : "KABUPATEN BULUNGAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e4c"),
+	"nama" : "KABUPATEN TANA TIDUNG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e4d"),
+	"nama" : "KABUPATEN NUNUKAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e4e"),
+	"nama" : "KOTA TARAKAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e4f"),
+	"nama" : "KABUPATEN BOLAANG MONGONDOW"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e50"),
+	"nama" : "KABUPATEN MINAHASA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e51"),
+	"nama" : "KABUPATEN KEPULAUAN SANGIHE"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e52"),
+	"nama" : "KABUPATEN KEPULAUAN TALAUD"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e53"),
+	"nama" : "KABUPATEN MINAHASA SELATAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e54"),
+	"nama" : "KABUPATEN MINAHASA UTARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e55"),
+	"nama" : "KABUPATEN BOLAANG MONGONDOW UTARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e56"),
+	"nama" : "KABUPATEN SIAU TAGULANDANG BIARO"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e57"),
+	"nama" : "KABUPATEN MINAHASA TENGGARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e58"),
+	"nama" : "KABUPATEN BOLAANG MONGONDOW SELATAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e59"),
+	"nama" : "KABUPATEN BOLAANG MONGONDOW TIMUR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e5a"),
+	"nama" : "KOTA MANADO"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e5b"),
+	"nama" : "KOTA BITUNG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e5c"),
+	"nama" : "KOTA TOMOHON"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e5d"),
+	"nama" : "KOTA KOTAMOBAGU"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e5e"),
+	"nama" : "KABUPATEN BANGGAI KEPULAUAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e5f"),
+	"nama" : "KABUPATEN BANGGAI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e60"),
+	"nama" : "KABUPATEN MOROWALI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e61"),
+	"nama" : "KABUPATEN POSO"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e62"),
+	"nama" : "KABUPATEN DONGGALA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e63"),
+	"nama" : "KABUPATEN TOLI-TOLI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e64"),
+	"nama" : "KABUPATEN BUOL"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e65"),
+	"nama" : "KABUPATEN PARIGI MOUTONG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e66"),
+	"nama" : "KABUPATEN TOJO UNA-UNA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e67"),
+	"nama" : "KABUPATEN SIGI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e68"),
+	"nama" : "KABUPATEN BANGGAI LAUT"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e69"),
+	"nama" : "KABUPATEN MOROWALI UTARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e6a"),
+	"nama" : "KOTA PALU"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e6b"),
+	"nama" : "KABUPATEN KEPULAUAN SELAYAR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e6c"),
+	"nama" : "KABUPATEN BULUKUMBA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e6d"),
+	"nama" : "KABUPATEN BANTAENG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e6e"),
+	"nama" : "KABUPATEN JENEPONTO"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e6f"),
+	"nama" : "KABUPATEN TAKALAR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e70"),
+	"nama" : "KABUPATEN GOWA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e71"),
+	"nama" : "KABUPATEN SINJAI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e72"),
+	"nama" : "KABUPATEN MAROS"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e73"),
+	"nama" : "KABUPATEN PANGKAJENE DAN KEPULAUAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e74"),
+	"nama" : "KABUPATEN BARRU"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e75"),
+	"nama" : "KABUPATEN BONE"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e76"),
+	"nama" : "KABUPATEN SOPPENG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e77"),
+	"nama" : "KABUPATEN WAJO"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e78"),
+	"nama" : "KABUPATEN SIDENRENG RAPPANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e79"),
+	"nama" : "KABUPATEN PINRANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e7a"),
+	"nama" : "KABUPATEN ENREKANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e7b"),
+	"nama" : "KABUPATEN LUWU"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e7c"),
+	"nama" : "KABUPATEN TANA TORAJA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e7d"),
+	"nama" : "KABUPATEN LUWU UTARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e7e"),
+	"nama" : "KABUPATEN LUWU TIMUR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e7f"),
+	"nama" : "KABUPATEN TORAJA UTARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e80"),
+	"nama" : "KOTA MAKASSAR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e81"),
+	"nama" : "KOTA PAREPARE"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e82"),
+	"nama" : "KOTA PALOPO"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e83"),
+	"nama" : "KABUPATEN BUTON"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e84"),
+	"nama" : "KABUPATEN MUNA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e85"),
+	"nama" : "KABUPATEN KONAWE"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e86"),
+	"nama" : "KABUPATEN KOLAKA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e87"),
+	"nama" : "KABUPATEN KONAWE SELATAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e88"),
+	"nama" : "KABUPATEN BOMBANA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e89"),
+	"nama" : "KABUPATEN WAKATOBI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e8a"),
+	"nama" : "KABUPATEN KOLAKA UTARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e8b"),
+	"nama" : "KABUPATEN BUTON UTARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e8c"),
+	"nama" : "KABUPATEN KONAWE UTARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e8d"),
+	"nama" : "KABUPATEN KOLAKA TIMUR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e8e"),
+	"nama" : "KABUPATEN KONAWE KEPULAUAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e8f"),
+	"nama" : "KABUPATEN MUNA BARAT"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e90"),
+	"nama" : "KABUPATEN BUTON TENGAH"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e91"),
+	"nama" : "KABUPATEN BUTON SELATAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e92"),
+	"nama" : "KOTA KENDARI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e93"),
+	"nama" : "KOTA BAUBAU"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e94"),
+	"nama" : "KABUPATEN BOALEMO"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e95"),
+	"nama" : "KABUPATEN GORONTALO"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e96"),
+	"nama" : "KABUPATEN POHUWATO"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e97"),
+	"nama" : "KABUPATEN BONE BOLANGO"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e98"),
+	"nama" : "KABUPATEN GORONTALO UTARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e99"),
+	"nama" : "KOTA GORONTALO"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e9a"),
+	"nama" : "KABUPATEN MAJENE"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e9b"),
+	"nama" : "KABUPATEN POLEWALI MANDAR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e9c"),
+	"nama" : "KABUPATEN MAMASA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e9d"),
+	"nama" : "KABUPATEN MAMUJU"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e9e"),
+	"nama" : "KABUPATEN MAMUJU UTARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464e9f"),
+	"nama" : "KABUPATEN MAMUJU TENGAH"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ea0"),
+	"nama" : "KABUPATEN MALUKU TENGGARA BARAT"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ea1"),
+	"nama" : "KABUPATEN MALUKU TENGGARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ea2"),
+	"nama" : "KABUPATEN MALUKU TENGAH"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ea3"),
+	"nama" : "KABUPATEN BURU"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ea4"),
+	"nama" : "KABUPATEN KEPULAUAN ARU"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ea5"),
+	"nama" : "KABUPATEN SERAM BAGIAN BARAT"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ea6"),
+	"nama" : "KABUPATEN SERAM BAGIAN TIMUR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ea7"),
+	"nama" : "KABUPATEN MALUKU BARAT DAYA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ea8"),
+	"nama" : "KABUPATEN BURU SELATAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ea9"),
+	"nama" : "KOTA AMBON"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464eaa"),
+	"nama" : "KOTA TUAL"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464eab"),
+	"nama" : "KABUPATEN HALMAHERA BARAT"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464eac"),
+	"nama" : "KABUPATEN HALMAHERA TENGAH"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ead"),
+	"nama" : "KABUPATEN KEPULAUAN SULA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464eae"),
+	"nama" : "KABUPATEN HALMAHERA SELATAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464eaf"),
+	"nama" : "KABUPATEN HALMAHERA UTARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464eb0"),
+	"nama" : "KABUPATEN HALMAHERA TIMUR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464eb1"),
+	"nama" : "KABUPATEN PULAU MOROTAI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464eb2"),
+	"nama" : "KABUPATEN PULAU TALIABU"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464eb3"),
+	"nama" : "KOTA TERNATE"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464eb4"),
+	"nama" : "KOTA TIDORE KEPULAUAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464eb5"),
+	"nama" : "KABUPATEN FAKFAK"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464eb6"),
+	"nama" : "KABUPATEN KAIMANA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464eb7"),
+	"nama" : "KABUPATEN TELUK WONDAMA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464eb8"),
+	"nama" : "KABUPATEN TELUK BINTUNI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464eb9"),
+	"nama" : "KABUPATEN MANOKWARI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464eba"),
+	"nama" : "KABUPATEN SORONG SELATAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ebb"),
+	"nama" : "KABUPATEN SORONG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ebc"),
+	"nama" : "KABUPATEN RAJA AMPAT"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ebd"),
+	"nama" : "KABUPATEN TAMBRAUW"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ebe"),
+	"nama" : "KABUPATEN MAYBRAT"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ebf"),
+	"nama" : "KABUPATEN MANOKWARI SELATAN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ec0"),
+	"nama" : "KABUPATEN PEGUNUNGAN ARFAK"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ec1"),
+	"nama" : "KOTA SORONG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ec2"),
+	"nama" : "KABUPATEN MERAUKE"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ec3"),
+	"nama" : "KABUPATEN JAYAWIJAYA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ec4"),
+	"nama" : "KABUPATEN JAYAPURA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ec5"),
+	"nama" : "KABUPATEN NABIRE"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ec6"),
+	"nama" : "KABUPATEN KEPULAUAN YAPEN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ec7"),
+	"nama" : "KABUPATEN BIAK NUMFOR"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ec8"),
+	"nama" : "KABUPATEN PANIAI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ec9"),
+	"nama" : "KABUPATEN PUNCAK JAYA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464eca"),
+	"nama" : "KABUPATEN MIMIKA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ecb"),
+	"nama" : "KABUPATEN BOVEN DIGOEL"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ecc"),
+	"nama" : "KABUPATEN MAPPI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ecd"),
+	"nama" : "KABUPATEN ASMAT"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ece"),
+	"nama" : "KABUPATEN YAHUKIMO"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ecf"),
+	"nama" : "KABUPATEN PEGUNUNGAN BINTANG"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ed0"),
+	"nama" : "KABUPATEN TOLIKARA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ed1"),
+	"nama" : "KABUPATEN SARMI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ed2"),
+	"nama" : "KABUPATEN KEEROM"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ed3"),
+	"nama" : "KABUPATEN WAROPEN"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ed4"),
+	"nama" : "KABUPATEN SUPIORI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ed5"),
+	"nama" : "KABUPATEN MAMBERAMO RAYA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ed6"),
+	"nama" : "KABUPATEN NDUGA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ed7"),
+	"nama" : "KABUPATEN LANNY JAYA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ed8"),
+	"nama" : "KABUPATEN MAMBERAMO TENGAH"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ed9"),
+	"nama" : "KABUPATEN YALIMO"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464eda"),
+	"nama" : "KABUPATEN PUNCAK"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464edb"),
+	"nama" : "KABUPATEN DOGIYAI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464edc"),
+	"nama" : "KABUPATEN INTAN JAYA"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464edd"),
+	"nama" : "KABUPATEN DEIYAI"
+},
+{
+	"_id" : ObjectId("5d32711d64f2572520464ede"),
+	"nama" : "KOTA JAYAPURA"
+},
+{
+	"_id" : ObjectId("5d3271af9f19ef2520e6fdc9"),
+	"nama" : "sala"
+},
